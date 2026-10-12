@@ -2,7 +2,7 @@
 
 A lightweight desktop music player built with Windows Forms, NAudio, and TagLib#.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 ## 🚀 Features
 * **Formats:** MP3, WAV, FLAC, AAC, M4A, OGG, WMA, AIFF, ALAC.
